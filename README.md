@@ -11,7 +11,3 @@ Power supply for Breadboards.
 
 ## Shop
 * [Breadboard Power Supply (5V/3.3V)](http://www.watterott.com/en/Breadboard-PowerSupply-5V/33V)
-
-
-## Hardware
-* [Schematics + Layout](https://github.com/watterott/Breadboard-Power-Supply/tree/master/hardware)

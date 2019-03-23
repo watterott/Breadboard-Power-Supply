@@ -7,3 +7,5 @@ Power supply for Breadboards.
 * 5V 800mA voltage regulator
 * 3.3V 800mA voltage regulator
 * 3.3V or 5V output selectable with jumper
+* Open-Source and released under the [Creative Commons Attribution Share-Alike License](https://creativecommons.org/licenses/by-sa/4.0/).
+* **[Documentation on learn.watterott.com](https://learn.watterott.com)**
